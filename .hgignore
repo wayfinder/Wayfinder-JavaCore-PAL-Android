@@ -1,0 +1,7 @@
+
+syntax: regexp
+^build$
+^bin$
+
+syntax: regexp
+^\.classpath$
